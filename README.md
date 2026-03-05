@@ -1,6 +1,10 @@
 # ev3-explorer-bot
 Autonomous exploration robot built with LEGO EV3 and Java.
 
+The goal of this project is to build a robot that can explore unknown environments,
+detect objects, and interact with them using a gripper.  
+The software is written in Java and runs on ev3dev Linux.
+
 ![IMG_2310](https://github.com/user-attachments/assets/416b4b64-2ac6-48a3-9ece-9ae2c090db04)
 
 ## Hardware
