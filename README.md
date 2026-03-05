@@ -14,6 +14,8 @@ Autonomous exploration robot built with LEGO EV3 and Java.
 
 3. Flash SD card with Balena Etcher
 
+<img width="1387" height="670" alt="Bildschirmfoto 2026-03-05 um 18 26 27" src="https://github.com/user-attachments/assets/e5a3321a-a897-4411-beb1-353d5c380658" />
+
 <img width="912" height="592" alt="Bildschirmfoto 2026-03-05 um 18 23 07" src="https://github.com/user-attachments/assets/beb30e22-a139-4603-9517-735fe0ad5235" />
 
    
